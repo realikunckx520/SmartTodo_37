@@ -88,4 +88,5 @@ BUG 反馈
 
 Star ⭐ / Watch 👁 支持
 
-This line is from main branch.
+This line includes both main and feature-conflict changes.
+
