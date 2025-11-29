@@ -88,5 +88,6 @@ BUG 反馈
 
 Star ⭐ / Watch 👁 支持
 
-This is a test change for PR demonstration.
+This line includes both main and feature-conflict changes.
+
 
